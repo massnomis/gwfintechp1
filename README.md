@@ -3,7 +3,7 @@
 https://docs.google.com/document/d/1klm7VtHYTkM3WEaCk-lgPEbygAx2n8mzEguT2XYj4C8/edit?usp=sharing
 
 GW defi WhitePaper
-
+https://aave-api-v2.aave.com/data/markets-data/0xd05e3e715d945b59290df0ae8ef85c1bdb684744
 https://docs.matic.network/docs/develop/tools/matic-gas-station/
 https://blog.chain.link/develop-python-defi-project/
 Dependencies
