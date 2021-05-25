@@ -1,6 +1,3 @@
-collateral facotors here
-matic speeds
-
 
 MATIC
 
