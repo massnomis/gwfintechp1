@@ -1,5 +1,5 @@
 # gwfintechp1
-https://governance.aave.com/t/proposal-add-support-for-matic-token/3350
+
 https://docs.google.com/document/d/1klm7VtHYTkM3WEaCk-lgPEbygAx2n8mzEguT2XYj4C8/edit?usp=sharing
 
 GW defi WhitePaper
