@@ -8,6 +8,8 @@ https://docs.matic.network/docs/develop/tools/matic-gas-station/
 https://blog.chain.link/develop-python-defi-project/
 Dependencies
 
+https://github.com/aave/protocol-v2/blob/master/markets/matic/rateStrategies.ts
+
 Web3.py
 
 https://web3py.readthedocs.io/en/stable/
