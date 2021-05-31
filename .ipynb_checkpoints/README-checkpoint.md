@@ -61,7 +61,7 @@ Historical - Go through compound, aave rates backtest strategies
 
 May need SQL for this
 
-Monte carlo testing on positions 
+Monte carlo testing on positions (Yonathan)
 
 
 
